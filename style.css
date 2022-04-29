@@ -1,16 +1,16 @@
 @font-face {
     font-family: samim;
-    src: url('/Personal Site/fonts/samim.ttf');
+    src: url('/fonts/samim.ttf');
 }
 
 @font-face {
     font-family: samim-bold;
-    src: url('/Personal Site/fonts/Samim-Bold.ttf');
+    src: url('/fonts/Samim-Bold.ttf');
 }
 
 @font-face {
     font-family: robana;
-    src: url('/Personal\ Site/fonts/Robaga Rounded Black.otf');
+    src: url('/fonts/Robaga Rounded Black.otf');
 }
 
 .bold-font{
